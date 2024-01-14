@@ -1,0 +1,10 @@
+.infoContainer {
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.gameInfo {
+	font-size: 20px;
+	color: #333;
+	font-weight: bold;
+}
